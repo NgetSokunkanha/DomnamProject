@@ -1,0 +1,15 @@
+.header {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navigationLeft {
+    
+}
+.logo {
+    width: 230px;;
+}
+.circle {
+    width: 100px;
+}
